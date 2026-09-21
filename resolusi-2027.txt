@@ -4,3 +4,6 @@ Resolusi Tahun 2027
 3. Membuat Undangan Online
 4. Belajar Tiktok Studio dan OBS buat streamer
 5. Jualan Online
+6. JavaScript Program Learning
+    - Vue
+    - React
